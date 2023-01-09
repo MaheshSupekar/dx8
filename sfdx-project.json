@@ -12,6 +12,7 @@
     "sourceApiVersion": "39.0",
     "packageAliases": {
         "MaheshPackageTest": "0Ho5g000000CawGCAS",
-        "MaheshPackageTest@1.0.0-1-master": "04t5g000000daAeAAI"
+        "MaheshPackageTest@1.0.0-1-master": "04t5g000000daAeAAI",
+        "MaheshPackageTest@1.0.0-2-master": "04t5g000000daAjAAI"
     }
 }
