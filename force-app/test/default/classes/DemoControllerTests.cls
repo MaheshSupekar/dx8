@@ -4,7 +4,6 @@ private class DemoControllerTests {
     @isTest static void testConstructor() {
     	Contact contact = new Contact(LastName='Smith');
     	insert contact;
-         copado__JobExecution__c job;
     	Test.setCurrentPage(Page.DemoPage);   	
     	ApexPages.currentPage().getParameters().put('lastName', 'Smith');
 
